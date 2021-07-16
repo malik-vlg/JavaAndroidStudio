@@ -73,4 +73,10 @@ public class MainActivity extends AppCompatActivity {
 
     }
 
+    public void clear(View view){
+        Button button = (Button) view;
+        txt.setText("");
+    }
+
+
 }
