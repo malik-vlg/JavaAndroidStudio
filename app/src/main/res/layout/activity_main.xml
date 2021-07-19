@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
     <LinearLayout
+
         android:id="@+id/linearLayout4"
         android:layout_width="0dp"
         android:layout_height="0dp"

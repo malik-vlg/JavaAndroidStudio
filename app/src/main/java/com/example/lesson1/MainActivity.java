@@ -77,6 +77,4 @@ public class MainActivity extends AppCompatActivity {
         Button button = (Button) view;
         txt.setText("");
     }
-
-
 }
